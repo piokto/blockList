@@ -34,5 +34,5 @@ wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/so
 以Root权限运行之后，编辑/etc/XrayR/config.yml找到RuleListPath这一项，去掉#和无用语句后保存重启XrayR
 
 ```
-wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/XrayR/rulelist
+wget https://raw.githubusercontent.com/piokto/blockList/main/blockList -O /etc/XrayR/rulelist
 ```
