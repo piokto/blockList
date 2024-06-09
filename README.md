@@ -26,7 +26,7 @@ https://github.com/XrayR-project/XrayR
 以Root权限运行之后重启你的Soga  
 
 ```
-wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/soga/blockList
+wget https://raw.githubusercontent.com/piokto/blockList/main/blockList -O /etc/soga/blockList
 ```
 
 # XrayR用法
